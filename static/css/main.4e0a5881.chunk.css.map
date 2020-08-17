@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,YACG,SAAU,CACV,kBACH,CAEA,IACG,YACH","file":"main.4e0a5881.chunk.css","sourcesContent":[".contenedor{\r\n   width: 95%;\r\n   margin: 1rem auto 0 auto;\r\n}\r\n\r\nimg{\r\n   height: 153px;\r\n}"]}
